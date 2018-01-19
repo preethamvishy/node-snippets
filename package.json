@@ -18,6 +18,7 @@
   "dependencies": {
     "node-notifier": "^5.2.1",
     "nodemailer": "^4.4.1",
+    "robotjs": "^0.4.7",
     "tor-request": "^1.0.6"
   }
 }
