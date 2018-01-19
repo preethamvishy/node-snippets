@@ -1,0 +1,22 @@
+{
+  "name": "node-snippets",
+  "version": "0.1.0",
+  "description": "A collection of handy node.js programs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/preethamvishy/node-snippets"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Preetham Viswanathan",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^4.4.1",
+    "tor-request": "^1.0.6"
+  }
+}
