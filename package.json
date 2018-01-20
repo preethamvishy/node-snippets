@@ -16,9 +16,11 @@
   "author": "Preetham Viswanathan",
   "license": "MIT",
   "dependencies": {
+    "http": "0.0.0",
     "node-notifier": "^5.2.1",
     "nodemailer": "^4.4.1",
     "robotjs": "^0.4.7",
+    "socket.io": "^2.0.4",
     "tor-request": "^1.0.6"
   }
 }
