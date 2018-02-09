@@ -16,6 +16,7 @@
   "author": "Preetham Viswanathan",
   "license": "MIT",
   "dependencies": {
+    "dialog": "^0.3.1",
     "http": "0.0.0",
     "node-notifier": "^5.2.1",
     "nodemailer": "^4.4.1",
